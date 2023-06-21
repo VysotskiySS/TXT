@@ -1,0 +1,5 @@
+film: Bicentennial Man
+serial: Stargate SG-1
+food: Khachapuri
+season: Summer
+side of the world: East Asia
