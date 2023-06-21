@@ -2,4 +2,4 @@ full name: Vysotskiy Sergey Sergeevich
 age: 32
 count home pets: 1
 salary: 60000
-.
+..
